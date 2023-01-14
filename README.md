@@ -10,4 +10,4 @@ Made using:
 
 ## Deployment
 I have deployed it on github pages and below is the live link for it. <br>
-[Multi Step Form](https://adityaraj5200.github.io/expense-tracker/)
+[Expense Tracker](https://github.com/adityaraj5200/expense-tracker)
